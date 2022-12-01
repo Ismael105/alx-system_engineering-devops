@@ -1,2 +1,2 @@
 #!/bin/bash
-hello chown betty 3-new_owner
+u="$USER" echo "betty $u"
