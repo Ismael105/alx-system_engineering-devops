@@ -1,2 +1,2 @@
 #!/bin/bash
-u="$USER" echo "betty $u"
+0u="$USER" echo "betty"
