@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l file
+hello chown betty 3-new_owner
